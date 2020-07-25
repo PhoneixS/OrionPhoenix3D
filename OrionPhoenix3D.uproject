@@ -2,5 +2,15 @@
 	"FileVersion": 3,
 	"EngineAssociation": "{2068D4DE-0306-1714-0035-032AEC361CA0}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "PythonScriptPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "SequencerScripting",
+			"Enabled": true
+		}
+	]
 }
